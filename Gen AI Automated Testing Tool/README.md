@@ -285,3 +285,14 @@ Each generated test case follows this structure:
 | `linked_requirement` | string | Traceability link to BRD section/ID |
 | `tags` | string[] | Free-form tags for filtering |
 | `status` | enum | draft / approved / rejected |
+
+
+Code Understanding :-
+Backend (Python / FastAPI)
+
+<img width="907" height="618" alt="image" src="https://github.com/user-attachments/assets/856c1468-53b4-4cf4-81b8-ba8da64449e3" />
+
+
+
+
+
