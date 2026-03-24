@@ -293,6 +293,18 @@ Backend (Python / FastAPI)
 <img width="907" height="618" alt="image" src="https://github.com/user-attachments/assets/856c1468-53b4-4cf4-81b8-ba8da64449e3" />
 
 
+Frontend (React + TypeScript + Vite)
+
+<img width="932" height="361" alt="image" src="https://github.com/user-attachments/assets/91702165-693f-4180-8dbc-a87c5fb58a4a" />
+
+
+Infrastructure
+
+<img width="865" height="227" alt="image" src="https://github.com/user-attachments/assets/10ec07a9-e2cd-46dd-a499-af1196619669" />
+
+<img width="935" height="187" alt="image" src="https://github.com/user-attachments/assets/71d6b4e6-1eaf-40fe-a416-ffc5d7be91ac" />
+
+
 
 
 
