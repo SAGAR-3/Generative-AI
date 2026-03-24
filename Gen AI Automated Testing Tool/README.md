@@ -1,4 +1,4 @@
-# GenAI Test Case Generator
+# GenAI Test Cases Generator
 
 An end-to-end tool that accepts a Business Requirement Document (BRD) and generates
 comprehensive, traceable test cases using an LLM + RAG pipeline.
