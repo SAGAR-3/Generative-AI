@@ -1,0 +1,227 @@
+FIRST NATIONAL BANK
+HOME LENDING DIVISION
+COMPREHENSIVE LOAN PRODUCT GUIDE
+
+Effective Date: January 1, 2024
+Version: 2024.1
+Access Level: Internal
+Department: Home Lending Operations
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SECTION 1: FHA LOAN PROGRAM
+
+1.1 Program Overview
+The Federal Housing Administration (FHA) loan program is designed to help
+creditworthy low-to-moderate income borrowers purchase homes with a lower
+down payment requirement than conventional loans. FHA loans are insured by
+the U.S. Department of Housing and Urban Development (HUD).
+
+1.2 Minimum Eligibility Requirements
+
+Credit Score Requirements:
+- 580 or above: Eligible for 3.5% minimum down payment
+- 500 to 579: Eligible with 10% minimum down payment
+- Below 500: Not eligible for FHA-insured financing
+
+Debt-to-Income (DTI) Ratios:
+- Maximum front-end (housing) DTI: 31% of gross monthly income
+- Maximum back-end (total debt) DTI: 43% standard
+- Up to 50% DTI with AUS approval and compensating factors
+
+Employment Requirements:
+- Minimum 2-year employment history required
+- Self-employed: 2 years tax returns and YTD profit/loss statement
+- Recent job changes acceptable if in same field or improved income
+
+1.3 Required Documentation Checklist
+□ Last 2 years W-2 forms
+□ Last 2 years signed federal tax returns
+□ Most recent 30-day pay stubs
+□ Last 3 months bank statements (all pages)
+□ Government-issued photo ID
+□ Social Security number
+□ Purchase contract (if applicable)
+□ Property address and legal description
+□ Landlord information for rental history
+
+1.4 FHA Mortgage Insurance Premiums (MIP)
+All FHA loans require two types of mortgage insurance:
+- Upfront MIP (UFMIP): 1.75% of base loan amount, financed into loan
+- Annual MIP: 0.55% for 30-year loans with LTV > 90% (varies by term/LTV)
+
+MIP Duration:
+- Down payment ≥ 10%: MIP for 11 years
+- Down payment < 10%: MIP for life of loan (unless refinanced)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SECTION 2: CONVENTIONAL LOAN PROGRAM
+
+2.1 Conforming Loan Limits
+Conforming loan limits are set annually by FHFA. For 2024:
+- Single-family home: $766,550 (standard)
+- High-cost areas: Up to $1,149,825
+- Loans above these limits are classified as Jumbo loans
+
+2.2 Eligibility Criteria
+
+Credit Score Requirements:
+- Minimum 620 FICO score for most programs
+- Scores 720+ qualify for best available rates
+- Scores below 660 may require additional documentation
+
+Down Payment Requirements:
+- Minimum 3% down for first-time homebuyers (HomeReady/Home Possible)
+- Minimum 5% down for standard conventional
+- Minimum 20% down to avoid Private Mortgage Insurance (PMI)
+
+DTI Limits:
+- Standard maximum: 45% total DTI
+- With compensating factors + AUS: Up to 50% total DTI
+
+2.3 Private Mortgage Insurance (PMI)
+PMI is required when LTV exceeds 80%:
+- Monthly premium: 0.20% - 2.00% annually based on credit/LTV
+- Borrower-paid PMI can be canceled when LTV reaches 80% (Homeowners
+  Protection Act requires automatic cancellation at 78% LTV)
+- Lender-paid PMI option available at slightly higher interest rate
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SECTION 3: VA LOAN PROGRAM
+
+3.1 Eligibility Requirements
+VA loans are available to:
+- Active duty service members (90+ days during wartime, 181+ peacetime)
+- Veterans with honorable or general discharge
+- National Guard/Reserve members (6+ years service)
+- Surviving spouses of service members killed in action
+
+3.2 Key Benefits
+- No down payment required in most cases
+- No PMI/MIP requirement
+- Competitive interest rates
+- Limited closing costs
+- VA funding fee: 2.15% first use, 3.30% subsequent (waived for disabled veterans)
+
+3.3 Credit and Income Requirements
+- No official minimum credit score (lender overlays typically 620+)
+- Residual income requirement must be met (varies by family size and region)
+- Maximum DTI: 41% guideline (exceptions permitted with residual income)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SECTION 4: REGULATORY COMPLIANCE
+
+4.1 RESPA (Real Estate Settlement Procedures Act) Requirements
+Under Regulation X (12 CFR Part 1024):
+
+Loan Estimate (LE):
+- Must be provided within 3 business days of complete application
+- Complete application defined as: borrower name, income, SSN, property address,
+  estimated value, and loan amount requested
+- Tolerance buckets apply to fees listed on LE
+
+Closing Disclosure (CD):
+- Must be provided 3 business days before consummation
+- Ensures borrowers can review final terms before closing
+
+Anti-Kickback (Section 8):
+- Prohibits payment of referral fees for settlement services
+- All title, appraisal, and settlement service providers must be independent
+
+4.2 TILA (Truth in Lending Act) Requirements
+Under Regulation Z (12 CFR Part 1026):
+
+Required Disclosures:
+- Annual Percentage Rate (APR) — must include all finance charges
+- Total amount financed
+- Total payments over life of loan
+- Payment schedule
+
+Right of Rescission:
+- Applies to refinances of primary residence (not purchase)
+- 3 business day rescission period
+
+4.3 ECOA (Equal Credit Opportunity Act) Requirements
+Under Regulation B (12 CFR Part 1002):
+
+Prohibited Discrimination Bases:
+- Race, color, religion, national origin
+- Sex, marital status, age
+- Receipt of public assistance income
+- Exercise of rights under Consumer Credit Protection Act
+
+Adverse Action Notices:
+- Required within 30 days of application decision
+- Must state specific reasons for denial
+- Must include ECOA notice and credit score disclosure if applicable
+
+4.4 FCRA (Fair Credit Reporting Act) Requirements
+- Must obtain written authorization before pulling credit reports
+- Adverse action notice required with credit score range
+- Consumers have right to dispute inaccurate information
+- Credit reports must be kept confidential
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SECTION 5: LOAN PROCESS OVERVIEW
+
+5.1 Standard Application Timeline
+
+Day 0:    Application received
+Day 1-3:  Loan Estimate issued (within 3 business days)
+Day 1-7:  Initial processing; document collection
+Day 7-14: Appraisal ordered and completed
+Day 14-21: Underwriting review
+Day 21-25: Conditional approval issued; conditions cleared
+Day 25-27: Closing Disclosure issued (3 days before closing)
+Day 30:   Closing/Consummation
+
+5.2 Common Underwriting Conditions
+- Verification of employment (VOE) - verbal VOE day of closing
+- Updated bank statements (if >60 days old)
+- Explanation letters for derogatory credit events
+- Gift letter if down payment is gifted
+- Homeowner's insurance binder
+
+5.3 Rate Lock Policy
+- Standard rate locks: 30, 45, 60 days
+- Extended locks available for new construction
+- Rate lock fee may apply for locks > 60 days
+- Float-down option available (contact rate desk)
+- Rates quoted are subject to change; not a commitment to lend
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SECTION 6: FREQUENTLY ASKED QUESTIONS
+
+Q: Can I use gift funds for my down payment?
+A: Yes. For FHA loans, 100% of the down payment can come from a gift from
+a family member. For conventional loans, gift funds are allowed but donor
+must provide a gift letter stating no repayment is expected.
+
+Q: What is the difference between pre-qualification and pre-approval?
+A: Pre-qualification is an informal estimate based on self-reported information.
+Pre-approval involves verified documentation review and a credit pull, providing
+a conditional commitment for a specific loan amount.
+
+Q: How long does negative credit history affect my application?
+A: Most derogatory items (late payments, collections) remain on credit reports
+for 7 years. Bankruptcies: Chapter 7 = 7 years (FHA) / 4 years (conventional).
+Chapter 13 = 2 years from discharge. Foreclosure: 3 years (FHA) / 7 years (conventional).
+
+Q: What is the maximum seller concession allowed?
+A: FHA: Up to 6% of the purchase price. Conventional: 3% (LTV > 90%),
+6% (LTV 75-90%), 9% (LTV ≤ 75%). VA: Up to 4% for certain concessions.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+DISCLAIMER: This document is for internal use by licensed mortgage professionals
+only. Information is subject to change without notice. All loans subject to
+credit approval, underwriting approval, and property eligibility. This
+document does not constitute a commitment to lend. Rates and terms vary based
+on individual credit profile, property type, and market conditions.
+
+© 2024 First National Bank. All rights reserved. Internal Use Only.

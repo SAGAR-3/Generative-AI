@@ -1,0 +1,55 @@
+# Environment
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+coverage.xml
+*.cover
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs (keep structure, not content)
+logs/*.jsonl
+logs/*.log
+!logs/.gitkeep
+
+# Data (keep structure, not sensitive docs)
+data/docs/
+data/uploads/
+!data/sample/
+!data/.gitkeep
+
+# Evaluation outputs
+eval_results*.json
+eval_report*.txt
+
+# Docker
+.docker/
+
+# OS
+.DS_Store
+Thumbs.db

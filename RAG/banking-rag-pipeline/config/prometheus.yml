@@ -1,0 +1,39 @@
+# config/prometheus.yml
+# Prometheus scrape configuration for BankRAG pipeline
+
+global:
+  scrape_interval: 15s
+  evaluation_interval: 15s
+  external_labels:
+    environment: production
+    service: bankrag
+
+# Alerting (configure Alertmanager endpoint for PagerDuty/Slack)
+# alerting:
+#   alertmanagers:
+#     - static_configs:
+#         - targets: ['alertmanager:9093']
+
+scrape_configs:
+  # BankRAG API metrics
+  - job_name: "bankrag-api"
+    static_configs:
+      - targets: ["bankrag:8000"]
+    metrics_path: "/metrics"
+    scrape_interval: 10s
+
+  # Qdrant vector store metrics
+  - job_name: "qdrant"
+    static_configs:
+      - targets: ["qdrant:6333"]
+    metrics_path: "/metrics"
+
+  # Redis metrics (via redis_exporter)
+  - job_name: "redis"
+    static_configs:
+      - targets: ["redis:6379"]
+
+  # Prometheus self-monitoring
+  - job_name: "prometheus"
+    static_configs:
+      - targets: ["localhost:9090"]
