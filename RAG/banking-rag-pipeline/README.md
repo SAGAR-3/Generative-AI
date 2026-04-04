@@ -44,7 +44,7 @@
 
 ## 🎯 Problem Statement
 
-A major retail bank's **mortgage and home-lending division** receives over **10,000 customer and loan-offers queries daily** across web chat, call centers, and email portals. These queries span:
+A major retail bank's **mortgage and home-lending division** receives over **10,000 customer and loan-officers queries daily** across web chat, call centers, and email portals. These queries span:
 
 - **Loan Eligibility** — "Do I qualify for an FHA loan with a 600 credit score?"
 - **Rate Information** — "What are today's 30-year fixed rates?"
